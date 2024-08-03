@@ -250,8 +250,7 @@ on c.Category_ID = cc.Car_Category_ID where cc.Manufacturer='TOYOTA'
 ```
 
 - Result
-    
-    ![Car_final_quereis.sql - DESKTOP-4LGCD5G_SQLEXPRESS.Competition (DESKTOP-4LGCD5G_Roaa (63)) - Microsoft SQL Server Management Studio 8_3_2024 7_25_02 PM.png]((https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/image.jpg?raw=true))
+    ![text]((https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/image.jpg?raw=true))
     
 - Query 2
 
