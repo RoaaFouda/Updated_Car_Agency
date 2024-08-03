@@ -250,7 +250,7 @@ on c.Category_ID = cc.Car_Category_ID where cc.Manufacturer='TOYOTA'
 ```
 
 - Result
-    ![text]((https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/image.jpg?raw=true))
+    ![text]((https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/Q1.jpg?raw=true))
     
 - Query 2
 
