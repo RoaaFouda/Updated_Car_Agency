@@ -250,7 +250,7 @@ on c.Category_ID = cc.Car_Category_ID where cc.Manufacturer='TOYOTA'
 ```
 
 - Result
-    ![text]((https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/Q1.jpg?raw=true))
+    ![Query 1](https://github.com/RoaaFouda/Updated_Car_Agency/blob/main/Q1.png?raw=true)
     
 - Query 2
 
@@ -277,7 +277,7 @@ select sum(amount) from installments where Installment_number <= 5
 
 - Result
     
-    ![Car_final_quereis.sql - DESKTOP-4LGCD5G_SQLEXPRESS.Competition (DESKTOP-4LGCD5G_Roaa (63)) - Microsoft SQL Server Management Studio 8_3_2024 7_33_02 PM.png](Updated%20Requirements%20Documentation%20ebc3926a05f9466fa2e7e83436dbd752/Car_final_quereis.sql_-_DESKTOP-4LGCD5G_SQLEXPRESS.Competition_(DESKTOP-4LGCD5G_Roaa_(63))_-_Microsoft_SQL_Server_Management_Studio_8_3_2024_7_33_02_PM.png)
+    ![Query 2](Updated%20Requirements%20Documentation%20ebc3926a05f9466fa2e7e83436dbd752/Car_final_quereis.sql_-_DESKTOP-4LGCD5G_SQLEXPRESS.Competition_(DESKTOP-4LGCD5G_Roaa_(63))_-_Microsoft_SQL_Server_Management_Studio_8_3_2024_7_33_02_PM.png)
     
 - Query 3
 
